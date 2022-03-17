@@ -1,0 +1,6 @@
+"id","regionname","locationname","StartChainage","EndChainage","StartLatitude","EndLatitude","StartLongitude","EndLongitude","ROUName","ROUMobileNumber","PipelineGroup","PipelineSection","TypeofPipeline"
+1,"RBPL",,1000,243000,29.93253714,28.73976,74.9655164,76.84902,,,"RRKPL","RBPL","Main Line"
+2,"Bhatinda",,2070,31598.6,29.916809,30.15747,74.962926,74.98405,,,"RRKPL","RBhPL","Main Line"
+3,"Tikrikalan",,2097,1053000,28.73261,28.72825,76.85494,76.858,,,"RRKPL","BTPL","Branch Line"
+4,"MDPLRewari",,889844,1010882," 27.488141",28.373004," 76.098961",76.722299,,,"RRKPL","MDPL","Main Line"
+5,"RKPL",,0,442680,"28.139008","26.380851","76.597390","80.115385",,,"RRKPL","RKPL","Main Line"
